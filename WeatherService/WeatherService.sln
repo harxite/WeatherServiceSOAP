@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService", "WeatherService\WeatherService.csproj", "{B44A9891-D1CC-4F17-AC3C-20F416E826D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP", "SOAP\SOAP.csproj", "{6EE033AE-0C14-4619-835B-6682C3440319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44A9891-D1CC-4F17-AC3C-20F416E826D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44A9891-D1CC-4F17-AC3C-20F416E826D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44A9891-D1CC-4F17-AC3C-20F416E826D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44A9891-D1CC-4F17-AC3C-20F416E826D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE033AE-0C14-4619-835B-6682C3440319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE033AE-0C14-4619-835B-6682C3440319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE033AE-0C14-4619-835B-6682C3440319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE033AE-0C14-4619-835B-6682C3440319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B094DD5-BA65-4583-8C86-6BCF0560075A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE033AE-0C14-4619-835B-6682C3440319}|SOAP\\SOAP.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE033AE-0C14-4619-835B-6682C3440319}|SOAP\\SOAP.csproj|solutionrelative:soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\services\\weatherserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\services\\weatherserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\services\\iweatherserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\services\\iweatherserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|c:\\users\\harun\\desktop\\projects-github\\weatherservice\\weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44A9891-D1CC-4F17-AC3C-20F416E826D0}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\SOAP\\Program.cs",
+              "RelativeDocumentMoniker": "SOAP\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\SOAP\\Program.cs",
+              "RelativeToolTip": "SOAP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:10:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherServ.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Services\\WeatherServ.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Services\\WeatherServ.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Services\\WeatherServ.cs",
+              "RelativeToolTip": "WeatherService\\Services\\WeatherServ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:25:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeatherServ.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Services\\IWeatherServ.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Services\\IWeatherServ.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Services\\IWeatherServ.cs",
+              "RelativeToolTip": "WeatherService\\Services\\IWeatherServ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:21:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\appsettings.json",
+              "RelativeToolTip": "WeatherService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T12:10:50.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeToolTip": "WeatherService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:02:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Context\\WeatherContext.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Context\\WeatherContext.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Context\\WeatherContext.cs",
+              "RelativeToolTip": "WeatherService\\Context\\WeatherContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:59:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Models\\Weather.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Models\\Weather.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\WeatherService\\WeatherService\\Models\\Weather.cs",
+              "RelativeToolTip": "WeatherService\\Models\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:58:28.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
